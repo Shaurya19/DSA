@@ -1,5 +1,6 @@
 # Trailing Zeros in a factorial
 # Keep dividing by 5
+# This logic works because for every 5 there is a 2
 
 def count(n):
     

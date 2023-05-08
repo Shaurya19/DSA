@@ -7,4 +7,4 @@ def check_prime(n):
 
     return c==0
 
-print(check_prime(7))
+print(check_prime(8))
